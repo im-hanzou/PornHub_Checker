@@ -2,6 +2,9 @@
 using PHChecker;
 using System.Collections;
 
+Console.Title = "PornHub checker by AikoSimidzu";
+Console.WriteLine("Official thread: https://github.com/AikoSimidzu/PornHub_Checker \n Thx for using my software.");
+
 Console.WriteLine("Enter path to proxy:");
 string ProxyPath = Console.ReadLine();
 
