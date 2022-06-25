@@ -5,3 +5,6 @@ Please do not judge strictly.
 
 # System
 Supported systems: Windows, Linux (Not tested), MacOS (Not tested).
+
+# Support
+Hi! You can supp me https://www.donationalerts.com/r/YatoSimidzu Thx you!
